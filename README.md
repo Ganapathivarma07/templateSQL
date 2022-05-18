@@ -39,25 +39,7 @@ Final URL: <Base URL>/<uri>
 ## Azure services and related products
 
 
-
-
-## Pre-requisites:
-
-
-
-### SQL Server 
-
-
-
-### Azure 
-
-### Azure RBAC permissions
-
-## Requirements
-
-
 ## Deployment steps
-
 
 
 
