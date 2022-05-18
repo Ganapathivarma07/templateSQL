@@ -1,4 +1,4 @@
-# Tutorial: Migrate SQL Server to Azure SQL Managed Instance using Log Replay Service (Preview)
+# Tutorial: 
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-![alt image](https://github.com/Ganapathivarma07/LRS-Migration-AzureSQLMI/blob/c65c38f40aa626403e011e6bf2a28e647ee5a102/Images/log-replay-service-Architecture.png)
+![alt image]()
 
 
 
